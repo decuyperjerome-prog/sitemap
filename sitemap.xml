@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en//"/>
-    <loc>https://jeromedecuyper.com/fr//</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en"/>
+    <loc>https://jeromedecuyper.com/</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/creations-instruments/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/creations-instruments/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/creations-instruments/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/creations-instruments/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/creations-instruments/"/>
-    <loc>https://jeromedecuyper.com/fr/creations-instruments/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/creations-instruments-jazzy-kora-chromatique-balafon"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/creations-instruments-jazzy-kora-chromatic-balafon"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/creaciones-instrumentos-jazzy-kora-cromatico-balafon"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/kreationen-instrumente-jazzy-kora-chromatisches-balafon"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/creations-instruments-jazzy-kora-chromatic-balafon"/>
+    <loc>https://jeromedecuyper.com/creations-instruments-jazzy-kora-chromatique-balafon</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/video/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/video/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/video/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/video/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/video/"/>
-    <loc>https://jeromedecuyper.com/fr/video/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/videos-instrumentales-kora-chromatique-balafon"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/instrumental-videos-kora-chromatique-balafon"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/videos-instrumentales-kora-cromatica-balafon"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/instrumentalvideos-kora-chromatique-balafon"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/instrumental-videos-kora-chromatique-balafon"/>
+    <loc>https://jeromedecuyper.com/videos-instrumentales-kora-chromatique-balafon</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/a-propos/"/>
-    <loc>https://jeromedecuyper.com/fr/a-propos/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/a-propos-luthier-kora-chromatique-balafon-musicien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/about-luthier-kora-chromatic-balafon-musician"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/acerca-luthier-kora-balafon-cromatico-musico"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/uber-geigenbauer-kora-chromatisches-balafon-musiker"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/about-luthier-kora-chromatic-balafon-musician"/>
+    <loc>https://jeromedecuyper.com/a-propos-luthier-kora-chromatique-balafon-musicien</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/blog/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/blog/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/blog/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/blog/"/>
-    <loc>https://jeromedecuyper.com/fr/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/blog-fabrication-dinstruments-reflexions"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/blog-instrument-making-reflections"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/blog-construccion-de-instrumentos-reflexiones"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/blog-instrumentenbau-reflexionen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/blog-instrument-making-reflections"/>
+    <loc>https://jeromedecuyper.com/blog-fabrication-dinstruments-reflexions</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/blog/pourquoi-crees-tu/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/blog/pourquoi-crees-tu/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/blog/pourquoi-crees-tu/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/blog/pourquoi-crees-tu/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/blog/pourquoi-crees-tu/"/>
-    <loc>https://jeromedecuyper.com/fr/blog/pourquoi-crees-tu/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/-pourquoi-crees-tu-instruments-de-musique"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/why-create-reflections-on-creation-musical-instruments"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/por-que-creas-instrumentos-musicales"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/warum-erschaffst-musikinstrumenten"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/why-create-reflections-on-creation-musical-instruments"/>
+    <loc>https://jeromedecuyper.com/-pourquoi-crees-tu-instruments-de-musique</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/blog/naissance-jazzy-kora/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/blog/naissance-jazzy-kora/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/blog/naissance-jazzy-kora/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/blog/naissance-jazzy-kora/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/blog/naissance-jazzy-kora/"/>
-    <loc>https://jeromedecuyper.com/fr/blog/naissance-jazzy-kora/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/de-la-kora-traditionnelle-a-la-jazzy-kora-chromatique"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/from-traditional-kora-to-chromatic-kora"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/de-la-kora-tradicional-a-la-jazzy-kora"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/von-der-traditionellen-kora-zur-jazzy-kora"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/from-traditional-kora-to-chromatic-kora"/>
+    <loc>https://jeromedecuyper.com/de-la-kora-traditionnelle-a-la-jazzy-kora-chromatique</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/fr/blog/balafon-x-bala/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/blog/balafon-x-bala/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/blog/balafon-x-bala/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/blog/balafon-x-bala/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/blog/balafon-x-bala/"/>
-    <loc>https://jeromedecuyper.com/fr/blog/balafon-x-bala/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jeromedecuyper.com/du-balafon-traditionnel-a-l-x-bala"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jeromedecuyper.com/en/from-the-traditional-balafon-to-the-x-bala"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jeromedecuyper.com/es/del-balafon-tradicional-al-x-bala"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jeromedecuyper.com/de/vom-traditionellen-balafon-zum-x-bala"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeromedecuyper.com/en/from-the-traditional-balafon-to-the-x-bala"/>
+    <loc>https://jeromedecuyper.com/du-balafon-traditionnel-a-l-x-bala</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
