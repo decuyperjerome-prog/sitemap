@@ -3,7 +3,7 @@
 Ce dépôt contient une version optimisée du sitemap du site [jeromedecuyper.com](https://jeromedecuyper.com), destinée à améliorer l’indexation SEO.
 
 ## Contenu
-- `sitemap.xml` : sitemap optimisé
+- `sitemap.xml` :sitemap optimisé
 - `optimise.xml` : version alternative en cours de test
 
 ## Objectif
