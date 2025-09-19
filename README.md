@@ -13,7 +13,7 @@ Permettre à Google Search Console de comparer l’indexation entre :
 
 ## Utilisation
 1. Copier l’URL brute du fichier `sitemap.xml` depuis GitHub (menu **Raw**).
-2. Coller cette URL dans la Search Console, dans l’onglet **Sitemaps**..
+2. Coller cette URL dans la Search Console, dans l’onglet **Sitemaps**.
 3. Suivre l’évolution de l’indexation.
 
 ## Auteur
